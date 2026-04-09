@@ -1,29 +1,32 @@
-<!-- Banner -->
+<!-- Tech Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=200&section=header&text=Farhan%20Sadiq&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Farhan%20Sadiq&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20MERN%20Learner%20|%20CSE%20Student&descAlignY=60&descAlign=50"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Farhan Sadiq</h1>
-<h3 align="center">Frontend Developer | MERN Learner | CSE Student</h3>
+<!-- Dynamic Typing -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00C6FF&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Farhan+Sadiq;Hello+there+👋;Welcome+to+my+GitHub+Profile;Frontend+Developer+from+Bangladesh;Learning+MERN+Stack" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a passionate frontend developer from Bangladesh. I love building modern, responsive web interfaces and continuously improving my skills in React and full-stack development. Currently focused on becoming a professional MERN stack developer.
+I'm a passionate frontend developer from Bangladesh, focused on building modern, responsive web applications.  
+Currently learning the **MERN stack** and working towards becoming a full-stack developer.
 
-- 🔭 I’m currently working on React projects  
-- 🌱 I’m currently learning **Next.js & Advanced React**  
-- 👨‍💻 All of my projects are available on my GitHub  
-- 🎯 Goal: Become a Full Stack MERN Developer  
-- ⚡ Fun fact: I love building UI and exploring new tech  
+- 🔭 Currently building React projects  
+- 🌱 Learning **Next.js & Advanced React**  
+- 🎯 Goal: Become MERN Stack Developer  
+- 💡 Interested in UI/UX + Web Apps  
+- 🚀 Building portfolio projects regularly  
 
 ---
 
 ## 🚀 Skills & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode,c,cpp,java" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode,figma,c,cpp,java" />
 </p>
 
 ---
@@ -31,14 +34,20 @@ I am a passionate frontend developer from Bangladesh. I love building modern, re
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/farhan-sadiq19" target="blank">
+<a href="https://linkedin.com/in/farhan-sadiq19" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="https://twitter.com/farhan_sadiq22" target="blank">
+
+<a href="https://twitter.com/farhan_sadiq22" target="_blank">
 <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
+
 <a href="mailto:farhansadiq2021@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/farhansm01">
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 </p>
 
@@ -47,26 +56,26 @@ I am a passionate frontend developer from Bangladesh. I love building modern, re
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=farhansm01&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=farhansm01&show_icons=true&theme=tokyonight&border_radius=10" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=farhansm01&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=farhansm01&theme=tokyonight&border_radius=10" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhansm01&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhansm01&layout=compact&theme=tokyonight&border_radius=10" />
 </p>
 
 ---
 
 ## 🔥 Current Focus
 
-- Building React Projects  
+- Building React UI Projects  
 - Learning Next.js  
-- Practicing UI/UX Design  
-- Improving JavaScript fundamentals  
-- Working on Portfolio Projects  
+- Improving JavaScript  
+- Working on MERN Stack  
+- Posting projects on LinkedIn  
 
 ---
 
