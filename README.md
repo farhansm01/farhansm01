@@ -56,15 +56,15 @@ Currently learning the **MERN stack** and working towards becoming a full-stack 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=farhansm01&show_icons=true&theme=tokyonight&border_radius=10" />
+<img src="https://github-readme-stats.vercel.app/api?username=farhansm01&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=farhansm01&theme=tokyonight&border_radius=10" />
+<img src="https://streak-stats.demolab.com?user=farhansm01&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhansm01&layout=compact&theme=tokyonight&border_radius=10" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhansm01&layout=compact&theme=tokyonight" />
 </p>
 
 ---
