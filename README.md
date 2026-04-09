@@ -1,18 +1,77 @@
-<h1 align="center">Hi 👋, I'm Farhan Sadiq</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farhansm01&label=Profile%20views&color=0e75b6&style=flat" alt="farhansm01" /> </p>
-
-- 📫 How to reach me **farhansadiq2021@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/farhan_sadiq22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="farhan_sadiq22" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/farhan-sadiq19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhan-sadiq19" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/4203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="4203" height="30" width="40" /></a>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=200&section=header&text=Farhan%20Sadiq&fontSize=40&fontColor=ffffff" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Farhan Sadiq</h1>
+<h3 align="center">Frontend Developer | MERN Learner | CSE Student</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhansm01&" alt="farhansm01" /></p>
+---
+
+## 👨‍💻 About Me
+
+I am a passionate frontend developer from Bangladesh. I love building modern, responsive web interfaces and continuously improving my skills in React and full-stack development. Currently focused on becoming a professional MERN stack developer.
+
+- 🔭 I’m currently working on React projects  
+- 🌱 I’m currently learning **Next.js & Advanced React**  
+- 👨‍💻 All of my projects are available on my GitHub  
+- 🎯 Goal: Become a Full Stack MERN Developer  
+- ⚡ Fun fact: I love building UI and exploring new tech  
+
+---
+
+## 🚀 Skills & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode,c,cpp,java" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/farhan-sadiq19" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://twitter.com/farhan_sadiq22" target="blank">
+<img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+<a href="mailto:farhansadiq2021@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=farhansm01&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=farhansm01&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhansm01&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Current Focus
+
+- Building React Projects  
+- Learning Next.js  
+- Practicing UI/UX Design  
+- Improving JavaScript fundamentals  
+- Working on Portfolio Projects  
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=farhansm01&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
