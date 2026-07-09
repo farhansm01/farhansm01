@@ -5,7 +5,7 @@
 
 <!-- Dynamic Typing -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00C6FF&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Farhan+Sadiq;Full+Stack+Developer;Building+ReSell+Hub+%26+HireLoop;Exploring+TypeScript+%26+Next.js" />
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00C6FF&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Farhan+Sadiq;Full+Stack+Developer;Building+Real-World+MERN+Projects;Exploring+TypeScript+%26+Next.js" />
 </p>
 
 ---
@@ -13,9 +13,11 @@
 ## 👨‍💻 About Me
 I'm a Full Stack Developer and CSE student from Bangladesh, building complete web applications from database to UI.
 I work across the **MERN stack** — React, Next.js, Node.js, Express, and MongoDB — and I'm currently expanding into **TypeScript**.
+I'm part of the Programming Hero full-stack bootcamp, where I've been sharpening both my frontend and backend skills through hands-on projects.
+I care about clean architecture, smooth UI/UX, and writing code that's actually maintainable.
 
-- 🔭 Building **ReSell Hub**, a full-stack second-hand marketplace with Stripe checkout
-- 🧑‍💼 Building **HireLoop**, a job board platform with role-based dashboards
+- 🔭 Currently building full-stack web applications with role-based dashboards and payment integrations
+- 🧑‍💻 Working on real-world MERN projects covering authentication, REST APIs, and database design
 - 🌱 Learning **TypeScript** and advanced Next.js patterns
 - 🎯 Goal: Become a production-ready Full Stack Developer
 - 💡 Interested in UI/UX, clean architecture, and web app performance
@@ -47,7 +49,7 @@ I work across the **MERN stack** — React, Next.js, Node.js, Express, and Mongo
 ---
 
 ## 📱 Contact
-📍 Dhaka, Bangladesh &nbsp;|&nbsp; 📧 farhansadiq2021@gmail.com &nbsp;|&nbsp; 📱 [+880 1XXXXXXXXX]
+📍 Dhaka, Bangladesh &nbsp;|&nbsp; 📧 farhansadiq2021@gmail.com &nbsp;|&nbsp; 📱 +880 1888295969
 
 ## 🌐 Connect With Me
 <p align="center">
