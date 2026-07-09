@@ -13,14 +13,14 @@
 ## 👨‍💻 About Me
 I'm a Full Stack Developer and CSE student from Bangladesh, building complete web applications from database to UI.
 I work across the **MERN stack** — React, Next.js, Node.js, Express, and MongoDB — and I'm currently expanding into **TypeScript**.
-I'm part of the Programming Hero full-stack bootcamp, where I've been sharpening both my frontend and backend skills through hands-on projects.
-I care about clean architecture, smooth UI/UX, and writing code that's actually maintainable.
+I enjoy turning ideas into working products end-to-end, handling everything from schema design to a polished, responsive frontend.
+I'm also exploring **AI integration** in web apps, and I care about clean architecture and smooth UI/UX.
 
 - 🔭 Currently building full-stack web applications with role-based dashboards and payment integrations
 - 🧑‍💻 Working on real-world MERN projects covering authentication, REST APIs, and database design
+- 🤖 Exploring **AI integration** — building features powered by AI APIs
 - 🌱 Learning **TypeScript** and advanced Next.js patterns
 - 🎯 Goal: Become a production-ready Full Stack Developer
-- 💡 Interested in UI/UX, clean architecture, and web app performance
 
 ---
 
